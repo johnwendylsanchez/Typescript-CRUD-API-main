@@ -1,0 +1,10 @@
+{
+  "database": {
+    "host": "localhost",
+    "port": 3306,
+    "user": "root",
+    "password": "sanchezlove",
+    "database": "ts_crud_api"
+  },
+  "secret": "your_jwt_secret"
+}
